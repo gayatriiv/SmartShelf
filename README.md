@@ -1,6 +1,6 @@
-# 🛒 Smart Shelf Plan
+# 🛒 Smart Shelf 
 
-**Smart Shelf Plan** is an AI-powered perishables optimization system designed to help retailers like Walmart reduce food waste, optimize dynamic pricing, and boost customer engagement through eco-friendly incentives.
+**Smart Shelf ** is an AI-powered perishables optimization system designed to help retailers like Walmart reduce food waste, optimize dynamic pricing, and boost customer engagement through eco-friendly incentives.
 
 ## 🔍 What It Does
 - 📦 Tracks perishable inventory (stock, expiry, AI price)
@@ -20,6 +20,6 @@
 
 ## 🚀 Setup
 ```bash
-git clone https://github.com/yourusername/smart-shelf-plan.git
-cd smart-shelf-plan
+git clone https://github.com/gayatriiv/SmartShelf.git
+cd SmartShelf
 npm install && npm run dev
