@@ -1,6 +1,6 @@
 # 🛒 Smart Shelf 
 
-**Smart Shelf ** is an AI-powered perishables optimization system designed to help retailers like Walmart reduce food waste, optimize dynamic pricing, and boost customer engagement through eco-friendly incentives.
+Smart Shelf is an AI-powered perishables optimization system designed to help retailers like Walmart reduce food waste, optimize dynamic pricing, and boost customer engagement through eco-friendly incentives.
 
 ## 🔍 What It Does
 - 📦 Tracks perishable inventory (stock, expiry, AI price)
